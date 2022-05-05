@@ -37,7 +37,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 `npm start`
 
 ## Deployed Link 
-[Deployed Link through Heroku](https://peaceful-shelf-24968.herokuapp.com/)
+[Deployed Link through Heroku](https://fast-oasis-60013.herokuapp.com/)
 
 ## Contributors
 * [Janelle Phalon](https://github.com/janellephalon) - Columbia University Coding Bootcamp 
