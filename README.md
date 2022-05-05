@@ -8,8 +8,7 @@ This application is designed to give users a fast and easy way to track their mo
   - [Table of Contents](#table-of-contents)
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
-  - [Installation](#installation)
-  - [Usage](#usage)
+  - [Demo](#demo)
   - [Deployed Link](#deployed-link)
   - [Contributors](#contributors)
 
@@ -30,11 +29,8 @@ WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 ```
 
-## Installation
-`npm init` 
-
-## Usage
-`npm start`
+## Demo
+<img width="1217" alt="Screen Shot 2022-05-05 at 7 34 05 AM" src="https://user-images.githubusercontent.com/95178236/166915237-b7e2d1b2-3578-4440-8d9d-950aa2ff031f.png">
 
 ## Deployed Link 
 [Deployed Link through Heroku](https://fast-oasis-60013.herokuapp.com/)
